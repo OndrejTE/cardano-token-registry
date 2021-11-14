@@ -1,0 +1,22 @@
+{
+    "asset": "728fec256376b81768f477bb03fd19148a8bf1131a3d21deac6812424c6f72646f66446566693031436861726c6573",
+    "policy_id": "728fec256376b81768f477bb03fd19148a8bf1131a3d21deac681242",
+    "asset_name": "4c6f72646f66446566693031436861726c6573",
+    "fingerprint": "asset1sh72fq72cxzva24rwwxdah9xnwc0gd4cr9lspr",
+    "quantity": "1",
+    "initial_mint_tx_hash": "362526736ec98b1d2d7dff254d140f730b9200380e49ab42efa1d6e091c1ac8e",
+    "mint_or_burn_count": 1,
+    "onchain_metadata": {
+        "name": "Lord of Defi #01 Charles",
+        "image": "ipfs://QmYjhQ3QpuB65pwb14qXPNeJ1U49AYZcCuCBGnCWAhs94S",
+        "nsfw": "False",
+        "files": {
+            "ipfs": "QmYjhQ3QpuB65pwb14qXPNeJ1U49AYZcCuCBGnCWAhs94S"
+        },
+        "author": "Lord of Defi",
+        "sha256": "2ca6ff2a1d81613ca4e477f8d59ca88affcc7c8ab9bd63ffaa4694edeeeb3db2",
+        "mediatype": "image/jpg",
+        "description": "Who will gain him will be the ruler."
+    },
+    "metadata": null
+}
